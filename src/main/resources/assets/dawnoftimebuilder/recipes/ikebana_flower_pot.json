@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:vine"
+		},
+		{
+			"item": "minecraft:flower_pot"
+		},
+		{
+			"item": "minecraft:red_flower",
+			"data": 2
+		},
+		{
+			"item": "minecraft:red_flower",
+			"data": 3
+		}
+	],
+	"result": {
+		"item": "dawnoftimebuilder:ikebana_flower_pot",
+		"data": 0,
+		"count": 1
+	}
+}
